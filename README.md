@@ -80,4 +80,22 @@ This project is open-source and available under the MIT License.
 
 screenshots:
 <img width="1887" height="1012" alt="image" src="https://github.com/user-attachments/assets/276c9540-51d5-4f19-8183-47a8e103a1d9" />
+Shelf Life Monitoring:
+<img width="1911" height="1035" alt="image" src="https://github.com/user-attachments/assets/208e8bf6-55d5-4779-ad48-8c9cb79ec74a" />
+Buyer Requests:
+<img width="1908" height="1009" alt="image" src="https://github.com/user-attachments/assets/5d46bf6c-75fc-4633-bf4d-c01d16506ade" />
+Expense:
+<img width="1914" height="1100" alt="image" src="https://github.com/user-attachments/assets/c7e07143-510e-4e60-b8fe-c691dd19168a" />
+Schemes :
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/2a9f248e-3d4c-4628-bf7a-c72abaf9627c" />
+Ai advisory Bot:
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/c51ee267-d9c3-43ea-b175-9166bd44813f" />
+Farmer Talk:
+<img width="1916" height="1035" alt="image" src="https://github.com/user-attachments/assets/51c11c0a-6eb8-4aad-afcd-4144aa313201" />
+
+
+
+
+
+
 

@@ -76,3 +76,8 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 ## 📝 License
 
 This project is open-source and available under the MIT License.
+
+
+screenshots:
+<img width="1887" height="1012" alt="image" src="https://github.com/user-attachments/assets/276c9540-51d5-4f19-8183-47a8e103a1d9" />
+
